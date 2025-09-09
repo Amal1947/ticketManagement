@@ -1,9 +1,9 @@
 import { User, Ticket, ChatMessage, Agent, TicketStats } from '../types';
 
 export const mockUsers: User[] = [
-  { id: '1', name: 'John Customer', email: 'john@example.com', role: 'customer' },
-  { id: '2', name: 'Sarah Agent', email: 'sarah@support.com', role: 'agent' },
-  { id: '3', name: 'Mike Admin', email: 'mike@admin.com', role: 'admin' },
+  { id: '1', name: ' Customer', email: 'john@example.com', role: 'customer' },
+  { id: '2', name: ' Agent', email: 'sarah@support.com', role: 'agent' },
+  { id: '3', name: ' Admin', email: 'mike@admin.com', role: 'admin' },
 ];
 
 export const mockTickets: Ticket[] = [
